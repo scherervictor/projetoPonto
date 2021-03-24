@@ -1,0 +1,12 @@
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\bin\Debug\netcoreapp2.1\ApiTeste.Infra.deps.json
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\bin\Debug\netcoreapp2.1\ApiTeste.Infra.dll
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\bin\Debug\netcoreapp2.1\ApiTeste.Infra.pdb
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.dll
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.pdb
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\bin\Debug\netcoreapp2.1\ApiTeste.Domain.dll
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\bin\Debug\netcoreapp2.1\ApiTeste.Domain.pdb
+C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Infra\obj\Debug\netcoreapp2.1\ApiTeste.Infra.csproj.CopyComplete
