@@ -1,0 +1,24 @@
+<form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+  
+    <label>
+        Id Colaborador:
+        <input type="text" formControlName="idColaborador">
+      </label>
+
+    <label>
+      Nome:
+      <input type="text" formControlName="nome">
+    </label>
+  
+    <label>
+      Entrada ou Saida:
+      <select formControlName="entradaSaida">
+        <option *ngFor="let es of entradaOuSaida" [ngValue]="es">
+          {{ es.nome }}
+        </option>
+      </select>
+    </label>
+
+    <button class="button" type="submit">Registrar ponto</button>
+  
+</form>

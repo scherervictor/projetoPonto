@@ -1,9 +1,0 @@
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\bin\Debug\netcoreapp2.1\ApiTeste.Domain.deps.json
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\bin\Debug\netcoreapp2.1\ApiTeste.Domain.dll
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\bin\Debug\netcoreapp2.1\ApiTeste.Domain.pdb
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.csprojAssemblyReference.cache
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.AssemblyInfoInputs.cache
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.AssemblyInfo.cs
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.dll
-C:\Users\Victor\source\repos\ApiTeste\ApiTeste.Domain\obj\Debug\netcoreapp2.1\ApiTeste.Domain.pdb
